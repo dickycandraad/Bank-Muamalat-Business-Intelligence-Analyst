@@ -90,27 +90,26 @@ Fitur utama dashboard meliputi:
 
 ### 5. Insight Bisnis
 1) Fokus pada Kategori Penyumbang Total Sales Terbesar
-- Robots menyumbang 42% ($743k) dan Drones menyumbang 27% ($477k) dari total sales.
-- Kategori ini memiliki dampak paling besar terhadap total sales.
-- Peningkatan performa pada dua kategori ini akan memberikan pengaruh signifikan terhadap total penjualan.
+   - Robots menyumbang 42% ($743k) dan Drones menyumbang 27% ($477k) dari total sales.
+   - Kategori ini memiliki dampak paling besar terhadap total sales.
+   - Peningkatan performa pada dua kategori ini akan memberikan pengaruh signifikan terhadap total penjualan.
 2) Maksimalkan Product dengan Total Quantity Order Tinggi
-eBooks menyumbang 26,8% (3.123 unit) dan Training Videos 17,9% (2.081 unit)
-mendominasi total quantity order.
-Produk digital memiliki permintaan tinggi meskipun nilai per unit lebih rendah.
-Kombinasi produk digital dengan produk fisik dapat membantu meningkatkan nilai
-transaksi secara keseluruhan.
+   - eBooks menyumbang 26,8% (3.123 unit) dan Training Videos 17,9% (2.081 unit)
+   - mendominasi total quantity order.
+   - Produk digital memiliki permintaan tinggi meskipun nilai per unit lebih rendah.
+   - Kombinasi produk digital dengan produk fisik dapat membantu meningkatkan nilai transaksi secara keseluruhan.
 3) Manfaatkan Pola Tren Penjualan
-- Puncak penjualan terjadi pada Juni 2021 dengan 582 unit terjual ($95k)
-- Penurunan terlihat pada Oktober 2021 dengan 368 unit terjual ($52k)
-- Pergerakan total sales sejalan dengan perubahan total quantity
-- Strategy yang mendorong peningkatan jumlah unit terjual akan berdampak langsung pada kenaikan total sales
+   - Puncak penjualan terjadi pada Juni 2021 dengan 582 unit terjual ($95k)
+   - Penurunan terlihat pada Oktober 2021 dengan 368 unit terjual ($52k)
+   - Pergerakan total sales sejalan dengan perubahan total quantity
+   - Strategy yang mendorong peningkatan jumlah unit terjual akan berdampak langsung pada kenaikan total sales
 4) Perkuat Wilayah dengan Performa Tinggi
-- Washington menjadi kota dengan kontribusi penjualan tertinggi selama periode analisis.
-- Tercatat 308 unit terjual dengan total sales sekitar $55k.
-- Hal ini menunjukkan adanya konsentrasi permintaan pada wilayah tertentu yang dapat menjadi fokus penguatan pasar.
+   - Washington menjadi kota dengan kontribusi penjualan tertinggi selama periode analisis.
+   - Tercatat 308 unit terjual dengan total sales sekitar $55k.
+   - Hal ini menunjukkan adanya konsentrasi permintaan pada wilayah tertentu yang dapat menjadi fokus penguatan pasar.
 5) Ringkasan Strategis
-- Total sales terkonsentrasi pada produk premium.
-- Volume penjualan didominasi produk digital.
-- Perubahan total sales dipengaruhi oleh perubahan jumlah unit terjual.
-- Terdapat konsentrasi penjualan pada wilayah tertentu.
-- Pendekatan berbasis data ini dapat membantu menjaga stabilitas penjualan sekaligus mendorong pertumbuhan secara terarah.
+   - Total sales terkonsentrasi pada produk premium.
+   - Volume penjualan didominasi produk digital.
+   - Perubahan total sales dipengaruhi oleh perubahan jumlah unit terjual.
+   - Terdapat konsentrasi penjualan pada wilayah tertentu.
+   - Pendekatan berbasis data ini dapat membantu menjaga stabilitas penjualan sekaligus mendorong pertumbuhan secara terarah.
