@@ -22,23 +22,23 @@ Disediakan dataset sebagai berikut:
 1. Tentukan masing-masing primary key pada 4 dataset penjualan
 2. Tentukan relationship dari ke-4 tabel tersebut
 3. Sebagai Business Intelligence Analyst PT Sejahtera Bersama, kita akan membuat sebuah master table yang berisikan informasi:
-    - CustomerEmail (cust_email)
-    - CustomerCity (cust_city)
-    - OrderDate(order_date)
-    - OrderQty (order_qty)
-    - ProductName (product_name)
-    - ProductCategoryName (category_name)
-    - TotalSales (total_sales)
+   1) CustomerEmail (cust_email)
+   2) CustomerCity (cust_city)
+   3) OrderDate(order_date)
+   4) OrderQty (order_qty)
+   5) ProductName (product_name)
+   6) ProductCategoryName (category_name)
+   7) TotalSales (total_sales)
   Urutkan data tersebut berdasarkan tanggal transaksi yang paling awal sampai yang paling akhir.
-4. Dari hasil tabel yang dibuat pada soal nomor 3, simpanlah hasilnya dalam bentuk CSV. Dengan menggunakan Looker Studio, buatlah visualisasi yang menampilkan data penjualan tersebut. Visualisasi tersebut harus berisi minimal:
-    - Total keseluruhan sales
-    - Total keseluruhan sales berdasarkan kategori produk
-    - Total keseluruhan qty berdasarkan kategori produk
-    - Total sales berdasarkan kota
-    - Total qty berdasarkan kota
-    - Top 5 kategori produk yang paling tinggi salesnya
-    - Top 5 kategori produk yang paling tinggi qtynya
-5. Sebagai BI analyst PT Sejahtera Bersama, apa yang bisa anda usulkan untuk mempertahankan penjualan ataupun menaikkan penjualan dengan tabel transaksi detail yang sudah ada?
+5. Dari hasil tabel yang dibuat pada soal nomor 3, simpanlah hasilnya dalam bentuk CSV. Dengan menggunakan Looker Studio, buatlah visualisasi yang menampilkan data penjualan tersebut. Visualisasi tersebut harus berisi minimal:
+   1) Total keseluruhan sales
+   2) Total keseluruhan sales berdasarkan kategori produk
+   3) Total keseluruhan qty berdasarkan kategori produk
+   4) Total sales berdasarkan kota
+   5) Total qty berdasarkan kota
+   6) Top 5 kategori produk yang paling tinggi salesnya
+   7) Top 5 kategori produk yang paling tinggi qtynya
+6. Sebagai BI analyst PT Sejahtera Bersama, apa yang bisa anda usulkan untuk mempertahankan penjualan ataupun menaikkan penjualan dengan tabel transaksi detail yang sudah ada?
 
 ## Langkah-Langkah Pengerjaan Final Task
 ### 1. Menentukan primary key
@@ -79,6 +79,7 @@ Seluruh data transaksi telah terintegrasi melalui proses join antar tabel sehing
 
 ### 4. Visualisasi dashboard
 <img width="2500" height="1876" alt="Bank Muamalat Business Intelligence Analyst" src="https://github.com/user-attachments/assets/3ea0b163-bb75-4e31-b269-4fc8ff814c04" />
+
 Fitur utama dashboard meliputi:
 1) KPI summary cards, yang menampilkan total sales, total orders, total quantity, dan total customers.
 2) Filter interaktif, yang terdiri dari date, city, product name dan product category.
