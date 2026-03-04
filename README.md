@@ -12,7 +12,7 @@ Proyek ini bertujuan untuk membangun sistem pelaporan yang terintegrasi dan info
 2) Mengidentifikasi pola dan tren penjualan
 3) Menemukan peluang untuk mempertahankan maupun meningkatkan penjualan
 Dengan pendekatan berbasis data, perusahaan diharapkan dapat mengambil keputusan yang lebih strategis dan terarah.
-## Dataset Overview
+### Dataset Overview
 Disediakan dataset sebagai berikut:
 1) Customers.csv
 2) Orders.csv
