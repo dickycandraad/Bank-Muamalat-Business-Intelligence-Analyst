@@ -67,9 +67,12 @@ Tahap pertama adalah mengimpor dataset berikut ke BigQuery:
 3) ProductCategory.csv
 4) Products.csv
 <img width="570" height="338" alt="image" src="https://github.com/user-attachments/assets/72f02453-1cc5-41c3-b763-964a9f0a2ed1" />
+
 Query berikut digunakan untuk membuat MasterTable dengan menggabungkan tabel Orders, Customers, Products, dan ProductCategory.
+
 <img width="635" height="490" alt="image" src="https://github.com/user-attachments/assets/0babdc5a-03ab-438b-9556-849bc653d377" />
 <img width="683" height="203" alt="image" src="https://github.com/user-attachments/assets/82feb5b3-d6f7-4baa-bb62-6594a6cc323b" />
+
 MasterTable telah berhasil dibuat dengan struktur kolom yang sesuai, tipe data yang tepat, serta perhitungan total_sales yang tervalidasi dengan benar.
 
 Seluruh data transaksi telah terintegrasi melalui proses join antar tabel sehingga membentuk satu dataset yang terstruktur dan siap digunakan sebagai sumber utama dalam proses visualisasi dashboard dan analisis penjualan.
